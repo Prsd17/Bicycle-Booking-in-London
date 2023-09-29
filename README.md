@@ -21,5 +21,5 @@ Begin by importing the necessary libraries and loading the dataset. Then, perfor
 ### Action
 Based on the analysis and results, recommendations can be provided for improving bicycle rentals, such as:
 
-1. Months like Dec, Jan and Feb sees less amount of booking to increase it we can provide a discount on the booking to attract more customres.
+1. Months like Dec, Jan and Feb sees less amount of booking to increase it we can provide a discount on the booking to attract more customers.
 2. Working days sees more booking so we can provide an offer during weekends or holidays to bring in more bookings.
